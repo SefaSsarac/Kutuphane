@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\Kutuphane\Kutuphane\obj\Debug\net8.0\Kutuphane.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\Kutuphane\Kutuphane\obj\Debug\net8.0\Kutuphane.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\Kutuphane\Kutuphane\obj\Debug\net8.0\Kutuphane.AssemblyInfo.cs
+D:\Yazılım\Repository\Kutuphane\Kutuphane\obj\Debug\net8.0\Kutuphane.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\Kutuphane\Kutuphane\bin\Debug\net8.0\Kutuphane.exe
+D:\Yazılım\Repository\Kutuphane\Kutuphane\bin\Debug\net8.0\Kutuphane.deps.json
+D:\Yazılım\Repository\Kutuphane\Kutuphane\bin\Debug\net8.0\Kutuphane.runtimeconfig.json
+D:\Yazılım\Repository\Kutuphane\Kutuphane\bin\Debug\net8.0\Kutuphane.dll
+D:\Yazılım\Repository\Kutuphane\Kutuphane\bin\Debug\net8.0\Kutuphane.pdb
+D:\Yazılım\Repository\Kutuphane\Kutuphane\obj\Debug\net8.0\Kutuphane.dll
+D:\Yazılım\Repository\Kutuphane\Kutuphane\obj\Debug\net8.0\refint\Kutuphane.dll
+D:\Yazılım\Repository\Kutuphane\Kutuphane\obj\Debug\net8.0\Kutuphane.pdb
+D:\Yazılım\Repository\Kutuphane\Kutuphane\obj\Debug\net8.0\Kutuphane.genruntimeconfig.cache
+D:\Yazılım\Repository\Kutuphane\Kutuphane\obj\Debug\net8.0\ref\Kutuphane.dll
