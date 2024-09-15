@@ -49,3 +49,10 @@ The PrintDetails() method displays the book's information to the console.
 Requirements
 .NET Framework or .NET Core/5+ installed.
 An IDE that supports C# (Visual Studio, VS Code, etc.).
+
+Technologies Used:
+-
+
+C#, .Net
+
+                             
