@@ -1,4 +1,6 @@
 Book Information Application
+-
+
 This application is a simple C# program designed to store and display book information. The Book class handles the storage of basic book details and outputs them to the user. The program demonstrates the use of both default and alternative constructors to create book objects and print their details.
 
 Project Overview
@@ -6,6 +8,7 @@ Book Class
 The Book class includes the following properties and methods:
 
 Properties:
+-
 
 BookTitle: The title of the book.
 AuthorFirstName: The author's first name.
@@ -19,6 +22,7 @@ Program
 The Program class is the entry point of the application and performs the following tasks:
 
 Creating a Book with Default Constructor:
+-
 
 Instantiates a Book object named book1 using the default constructor.
 Sets the book properties manually.
